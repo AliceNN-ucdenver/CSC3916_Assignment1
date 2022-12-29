@@ -1,4 +1,4 @@
-# Assignment Zero
+# Assignment One
 ## Purpose
 The purpose of this assignment is to setup your GitHub and Heroku (or Rendor) instances for future assignments
 
