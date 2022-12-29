@@ -32,7 +32,7 @@ You will create a Postman collection and create a REST test within the project. 
 - -5 - Missing Postman Test
 - -1 - For each missing assert (test)
 
-##Resources
+## Resources
 - http://nodejs.org
 - http://www.passportjs.org/docs/basic-digest/
 - https://devcenter.heroku.com/articles/heroku-cli 
